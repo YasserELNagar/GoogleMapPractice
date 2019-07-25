@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMapsApiPractice</string>
+    <string name="GoogleApiKey">AIzaSyDmgzXu-74Mm-qRuInsr1lxS_7B06QttHw</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="pleaseOpenGPS">Please Open Gps</string>
+</resources>
